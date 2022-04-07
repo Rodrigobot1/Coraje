@@ -1,0 +1,57 @@
+/*
+Regla CSS
+selector {
+    propiedades de valor;
+}
+*/
+
+
+*{
+    padding: 0;
+    margin: 0;
+    }
+
+body{ background-color: plum;}
+
+header{ text-align: center;}
+h1{ font-size: 50px; margin: 2%;  font-family: sugar bomb}
+h4{ font-size: 20px;  font-family: sugar bomb}
+
+.texto{ text-align: center; padding: 2%; font-size: 25px;}
+
+
+img{ width: 35%; margin-top: -15%;}
+
+.formulario{
+    margin: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+    color: palevioletred;
+    font-family: sugar bomb;
+    margin-top: -30%;
+    margin-bottom: 27px;
+    font-size: 150%;
+}
+
+envio{ font-size: 300%;}
+
+iframe{ left: 50%;
+float: right;}
+
+.nombre{margin: 3%;}
+.pais{ margin: 3%;}
+
+
+footer{
+    background-color: #020202;
+    color: white;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    height: 35px;
+    position: fixed;
+    bottom: 0;
+}
+
+footer img{ width: 1%; }
